@@ -1,4 +1,4 @@
-Sistema de Controle de Presença
+Projeto da faculdade de desenvolvimento web
 Este projeto foi desenvolvido na matéria de desenvolvimento web, ele consiste em uma landing page de receitas e notícias.
 
 ✨ Tecnologias Utilizadas
