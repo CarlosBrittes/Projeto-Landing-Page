@@ -1,9 +1,9 @@
-Projeto da faculdade de desenvolvimento web
+
 Este projeto foi desenvolvido na matéria de desenvolvimento web, ele consiste em uma landing page de receitas e notícias.
 
 ✨ Tecnologias Utilizadas
-Javascript: linguagem de programação principal do projeto.
-Html CSS: Para criação do frontend e estilização geral.
+Javascript: linguagem de programação principal do projeto,
+Html CSS: Para criação do frontend e estilização geral e
 PHP: liguangem utilizada para a integração com banco de dados.
 
 🔨 Contribuição
